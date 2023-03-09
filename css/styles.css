@@ -1,0 +1,33 @@
+/**********Tag selector******************/
+body{
+    background-color: #FCFFE7;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width:5px;
+    border-color: #EB455F;
+    height: 0px;
+    width: 5%;
+}
+h1{
+    color: #2B3467;
+}
+h3{
+    color: #2B3467;
+}
+/***************Class Slector************/
+/* 
+If you want to add an a specific style to a specific element
+when there is multiple elemtns of the same categories in the page
+such as images but you want to only add the style to one image,
+add a class ="" in the html file regarding this object and then here
+do as for tag but start with .class_name and then use {}
+*/
+
+/***************Class Slector************/
+/*
+Same as class but add id="" and do here #id_name{}
+Id can be only once in the html file
+*/ 
